@@ -1,5 +1,5 @@
 import XCTest
-import DearTemplate
+import DearEventTap
 
 final class PerformanceTests: XCTestCase {
     func testExample() {

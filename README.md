@@ -1,12 +1,14 @@
-# dear-template
+# dear-event-tap
 > this library is part of [dear](https://github.com/ivanmoskalev/dear) suite
+
+macOS Event Tap: listen to system-wide keypresses and clicks
 
 ## Installation
 
-dear-template is distributed via Swift Package Manager.
+dear-event-tap is distributed via Swift Package Manager.
 
 ```swift
-.package(url: "https://github.com/ivanmoskalev/dear-template.git", from: "1.0.0")
+.package(url: "https://github.com/ivanmoskalev/dear-event-tap.git", from: "1.0.0")
 ```
 
 ## Contributing
